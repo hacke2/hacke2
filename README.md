@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=hacke2&text_bold=false&show=prs_merged,prs_merged_percentage&number_format=long&rank_icon=percentile&show_icons=true&include_all_commits=true" />
+
 <!--
 **hacke2/hacke2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
